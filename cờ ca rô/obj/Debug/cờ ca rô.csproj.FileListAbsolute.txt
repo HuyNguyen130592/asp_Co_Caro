@@ -1,0 +1,19 @@
+C:\Users\huyng\Desktop\cờ ca rô\cờ ca rô\bin\Debug\cờ ca rô.exe.config
+C:\Users\huyng\Desktop\cờ ca rô\cờ ca rô\bin\Debug\cờ ca rô.exe
+C:\Users\huyng\Desktop\cờ ca rô\cờ ca rô\bin\Debug\cờ ca rô.pdb
+C:\Users\huyng\Desktop\cờ ca rô\cờ ca rô\obj\Debug\cờ ca rô.csprojResolveAssemblyReference.cache
+C:\Users\huyng\Desktop\cờ ca rô\cờ ca rô\obj\Debug\cờ_ca_rô.Form1.resources
+C:\Users\huyng\Desktop\cờ ca rô\cờ ca rô\obj\Debug\cờ_ca_rô.Properties.Resources.resources
+C:\Users\huyng\Desktop\cờ ca rô\cờ ca rô\obj\Debug\cờ ca rô.csproj.GenerateResource.Cache
+C:\Users\huyng\Desktop\cờ ca rô\cờ ca rô\obj\Debug\cờ ca rô.exe
+C:\Users\huyng\Desktop\cờ ca rô\cờ ca rô\obj\Debug\cờ ca rô.pdb
+C:\Users\huy\Desktop\lập trình\C#\cờ ca rô\cờ ca rô\bin\Debug\cờ ca rô.exe.config
+C:\Users\huy\Desktop\lập trình\C#\cờ ca rô\cờ ca rô\obj\Debug\cờ ca rô.exe
+C:\Users\huy\Desktop\lập trình\C#\cờ ca rô\cờ ca rô\obj\Debug\cờ ca rô.pdb
+C:\Users\huy\Desktop\lập trình\C#\cờ ca rô\cờ ca rô\bin\Debug\cờ ca rô.exe
+C:\Users\huy\Desktop\lập trình\C#\cờ ca rô\cờ ca rô\bin\Debug\cờ ca rô.pdb
+C:\Users\huy\Desktop\lập trình\C#\cờ ca rô\cờ ca rô\obj\Debug\cờ ca rô.csprojResolveAssemblyReference.cache
+C:\Users\huy\Desktop\lập trình\C#\cờ ca rô\cờ ca rô\obj\Debug\cờ_ca_rô.Form1.resources
+C:\Users\huy\Desktop\lập trình\C#\cờ ca rô\cờ ca rô\obj\Debug\cờ_ca_rô.Properties.Resources.resources
+C:\Users\huy\Desktop\lập trình\C#\cờ ca rô\cờ ca rô\obj\Debug\cờ ca rô.csproj.GenerateResource.Cache
+C:\Users\huy\Desktop\lập trình\C#\cờ ca rô\cờ ca rô\obj\Debug\cờ_ca_rô.Form2.resources
